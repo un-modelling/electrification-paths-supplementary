@@ -1,2 +1,2 @@
 # Electrification_Paths
-A spatial electrification toolkit to approach electrification at a national and regional level.
+You are probably reading this on a piece of an ex-tree. Felled by a petrol-guzzling chainsaw, it was carted to a paper mill in a diesel-powered truck. Or perhaps these sentences are on a tablet, with plastic components that started life as crude oil, and metal smelted with coke produced from the tar sands of Canada. Either way the words are probably lit with electricity from coal-fired power station. Maybe you are even sipping wine, grown with fertiliser made using natural gas, in a glass created in an oil-fired furnace… Weaning ourselves off this stuff is not going to be easy.
