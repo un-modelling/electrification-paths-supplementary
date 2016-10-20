@@ -1,5 +1,17 @@
-Results
-=======
+# electrification-paths-supplementary
+
+This repository is part of the [UN-DESA Modelling Tools](https://un-desa-modelling.github.io/).
+
+This is the supplementary material used in this particular simulation.
+
+Please read through the
+[presentation](https://un-desa-modelling.github.io/electrification-paths-presentation/).
+
+You can find a running version of the visualisation
+[here](https://un-desa-modelling.github.io/electrification-paths-visualisation/).
+
+
+## Results
 
 In the Split Results file there are 2 tabs.
 
@@ -14,8 +26,7 @@ Bank's Tiers 1 to 5.
 electricity for each settlement, for each scenario.
 
 
-Reading
-=======
+## Reading
 
 Mentis D., Welsch M., Fuso Nerini F., Broad O., Howells, M., Bazilian
 M., Rogner H., 2015 _A GIS based approach for electrification
@@ -30,8 +41,7 @@ Mentis D., Howells M., Rogner H., Zepeda E., Korkovelos A., Siyal S.,
 Broad O., Bazilian M. submitted paper: _Powering the world, The first
 global application of an open source spatial electrification model._
 
-Datasets
-========
+## Datasets
 
 - **Algorithms:** Detailed information about the algorithm can be
   found at Mentis et al., 2015. The algorithms used in this analysis
@@ -46,8 +56,7 @@ Datasets
 Renewable Resource potentials are available upon request due to large
 size. Please mail Dimitris Mentis at [mentnis@kth.se](mentis@kth.se).
 
-Tranmission network
-===================
+## Tranmission network
 
 - Existing transmission network: Source: (AfDB, 2011; OSM, 2015)
 - Planned transmission network: The transmission grid is assumed to
