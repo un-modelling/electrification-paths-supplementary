@@ -54,7 +54,7 @@ global application of an open source spatial electrification model._
   further in Fuso Nerini _et al._, 2016.
 
 Renewable Resource potentials are available upon request due to large
-size. Please mail Dimitris Mentis at [mentnis@kth.se](mentis@kth.se).
+size. Please mail Dimitris Mentis at [mentis@kth.se](mentis@kth.se).
 
 ## Tranmission network
 
