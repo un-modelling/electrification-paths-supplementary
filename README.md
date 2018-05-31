@@ -1,14 +1,14 @@
 # electrification-paths-supplementary
 
-This repository is part of the [UN-DESA Modelling Tools](https://un-desa-modelling.github.io/).
+This repository is part of the [UN Modelling Tools](https://un-modelling.github.io/).
 
 This is the supplementary material used in this particular simulation.
 
 Please read through the
-[presentation](https://un-desa-modelling.github.io/electrification-paths-presentation/).
+[presentation](https://un-modelling.github.io/electrification-paths-presentation/).
 
 You can find a running version of the visualisation
-[here](https://un-desa-modelling.github.io/electrification-paths-visualisation/).
+[here](https://un-modelling.github.io/electrification-paths-visualisation/).
 
 
 ## Results
